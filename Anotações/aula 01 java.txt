@@ -1,0 +1,25 @@
+JAVA - AULA 01
+
+
+* float => mesma coisa de "real" no portugol 
+obs1: no final das váriaveis tem que colocar ;
+
+* Scanner => equivale ao "leia" no portugol
+Scanner (System.in) 
+system.out.println => equivale ao "escreva" 
+
+se => if 
+senao=> else if
+comando "e" => &&
+comando "ou" => 
+obs2: em java se usa a vírgula 
+
+inteiro (Portugol) => int (Java)
+System.out.printf("Média aritmética arredondada: %2.2f",media); 
+
+break => para
+
+
+caso contrário = default
+ 
+
