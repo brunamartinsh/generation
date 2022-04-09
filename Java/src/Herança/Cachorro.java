@@ -6,7 +6,9 @@ public class Cachorro extends Animal {
 		super(nome, idade, som);
 		// TODO Auto-generated constructor stub
 	}
-	public String correndo() {
+	
+	@Override
+	public String Habilidade() {
 
 		return "Correeendo..... ";
 	}

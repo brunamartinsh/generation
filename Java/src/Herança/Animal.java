@@ -38,10 +38,21 @@ public class Animal {
 		return som;
 	}
     
-	public void emitirSom() {
+	public void som() {
 	   System.out.println(getSom());
 	}
 	
+	public String emitirsom() {
+		return "";
+	}
+	
+	public String Habilidade() {
+		return "Habilidade: correr";
+	}
+	
+	public String dados() {
+		return "\n\nNome: "+this.nome+"\nIdade: "+this.idade;
+	}
 }
 	
 	

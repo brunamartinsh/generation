@@ -17,8 +17,8 @@ package Herança;
 			Preguica preg = new Preguica(" Priga ", 3, "zZzZzz...");
 
 			
-			System.out.println("O cachorro "+dog.getNome()+" tem "+dog.getIdade()+" anos e faz " +dog.getSom()+"e ele sai "+dog.correndo());
-			System.out.println("O cavalo "+horse.getNome()+" tem "+horse.getIdade()+" anos e faz " +horse.getSom()+" e ele sai "+horse.correndo()); 
+			System.out.println("O cachorro "+dog.getNome()+" tem "+dog.getIdade()+" anos e faz " +dog.getSom()+"e ele sai "+dog.Habilidade());
+			System.out.println("O cavalo "+horse.getNome()+" tem "+horse.getIdade()+" anos e faz " +horse.getSom()+" e ele sai "+horse.Habilidade()); 
 			System.out.println("A preguiça "+preg.getNome()+" tem "+preg.getIdade()+" anos e faz " +preg.getSom()+" e ela vive"+preg.subindoarvore()); 
 			
 			
